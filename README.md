@@ -1,5 +1,7 @@
 # POS backend
 
+POS Software with Vibe coding.
+
 REST API for a single-shop point-of-sale app. Built with Django 5.2, Django REST Framework, and MySQL.
 The web UI is in the separate frontend repository (SvelteKit).
 
